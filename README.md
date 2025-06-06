@@ -29,7 +29,7 @@
 
 เพื่อความโปร่งใสและสร้างความมั่นใจ คุณสามารถตรวจสอบผลการสแกนไฟล์ติดตั้งจาก **VirusTotal** (เว็บที่สแกนไฟล์ด้วย Antivirus กว่า 70 ตัว) ได้ที่ลิงก์ด้านล่างนี้
 
-**[ดูผลการสแกนได้ที่นี่]([https://www.virustotal.com/gui/home/upload](https://www.virustotal.com/gui/file/a78d81c212b06e623012463aafb766790650e2efd7a4f9bd08462fd8465222eb/detection))**
+**[ดูผลการสแกนได้ที่นี่](https://www.virustotal.com/gui/file/a78d81c212b06e623012463aafb766790650e2efd7a4f9bd08462fd8465222eb/detection)**
 
 ---
 
